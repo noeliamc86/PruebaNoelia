@@ -1,0 +1,26 @@
+.formulario{
+    /*display: grid; /* modo cuadricula*/ 
+    /*grid-template-columns: 1fr 1fr 1fr; /*tres columnas*/
+    width: 600px; /*la anchura de la capa es 600*/
+    margin:auto; /*la capa esta centrada*/
+}
+body{
+    background-color: darkblue;
+    color : red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.boxPar{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+}
+.boxImpar{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+}
+
+.amarillo{
+    background-color: yellow;
+}
